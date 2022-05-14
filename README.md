@@ -4,7 +4,7 @@
 
 ### Venta de inmuebles por parte de residentes del exterior
 
-Nuestro Estudio efectúa las gestiones de autorización de venta ante la AFIP.
+Nuestro Estudio efectúa las gestiones de autorización de venta ante la AFIP. Lea nuestro [artículo](https://www.linkedin.com/pulse/residentes-en-el-exterior-c%C3%B3mo-vendo-mi-inmueble-marcelo-kukulanski?trk=public_profile_article_view) publicado en LinkedIn
 
 Consúltenos.
 
