@@ -1,6 +1,13 @@
 # Marcelo Kukulanski
 
-## Contador público
+## Contador Público
 
-- ![](./files/wsp_128x128.png) [+5491134095343](tel:+5491134095343)
-- 📫 [mdkuski@gmail.com](mailto:mdkuski@gmail.com)
+### Venta de inmuebles por parte de residentes del exterior
+
+Nuestro Estudio efectúa las gestiones de autorización de venta ante la AFIP.
+
+||
+|-|
+|<img src="./files/wsp_128x128.png" alt="drawing" width="24"/> [+54 9 11 3409 5343](tel:+5491134095343)|
+|<img src="./files/email_128x128.png" alt="drawing" width="24"/> [mdkuski@gmail.com](mailto:mdkuski@gmail.com)|
+
