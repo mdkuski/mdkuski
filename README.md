@@ -6,8 +6,6 @@
 
 Nuestro Estudio efectúa las gestiones de autorización de venta ante la AFIP. Lea nuestro [artículo](https://www.linkedin.com/pulse/residentes-en-el-exterior-c%C3%B3mo-vendo-mi-inmueble-marcelo-kukulanski) publicado en LinkedIn.
 
-Consúltenos.
-
 ||
 |-|
 |<img src="./files/wsp_128x128.png" alt="drawing" width="24"/> [+54 9 11 3409 5343](tel:+5491134095343)|
